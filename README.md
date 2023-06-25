@@ -1,4 +1,4 @@
-# Python_Explanatory_Analysis_Pandas
+# Python_Exploratory_Analysis_Pandas
 This Python Explanatory Analysis project is an improved version based on the tutorial by Alex the Analyst.
 
 # Overview
